@@ -1,0 +1,4 @@
+Algorithm,Strategy,Batch_Queries,Total_Time_s,Throughput_qps,Mean_Latency_us,p50_Latency_us,p95_Latency_us,p99_Latency_us,Avg_Comparisons,Daily_Update_Time_ms
+Linear Search (Iterative),Brute Force,50000,5079.94,9.8,101598.81,101598.81,101598.81,101598.81,500000.0,50799.4
+Binary Search (Recursive),Divide-and-Conquer,50000,0.374,133816.7,7.16,7.1,10.5,13.7,19.05,376.75
+Hash Table (Chained),Direct Addressing / Hashing,50000,0.079,635630.1,1.26,1.1,2.3,3.3,1.28,30.8122

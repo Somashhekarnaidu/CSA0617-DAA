@@ -1,0 +1,13 @@
+N,Algorithm,Strategy,Prep_Time_ms,Best_Comps,Avg_Comps,Worst_Comps,Best_Time_us,Avg_Time_us,Worst_Time_us
+1000,Linear Search (Iterative),Brute Force,0.0,1,506.79,1000,1.9,22.814,47.7
+1000,Binary Search (Recursive),Divide-and-Conquer,0.16,1,8.8,10,5.6,1.753,6.7
+1000,Hash Table (Chained),Direct Addressing / Hashing,1.2,1,1.41,2,8.5,0.376,1.8
+10000,Linear Search (Iterative),Brute Force,0.0,1,4699.14,10000,2.8,407.236,545.5
+10000,Binary Search (Recursive),Divide-and-Conquer,1.93,1,12.33,13,2.2,2.41,6.4
+10000,Hash Table (Chained),Direct Addressing / Hashing,5.84,1,1.4,0,4.9,0.381,0.8
+100000,Linear Search (Iterative),Brute Force,0.0,1,48100.67,100000,8.1,7931.505,16118.1
+100000,Binary Search (Recursive),Divide-and-Conquer,55.01,1,15.72,16,2.7,3.197,11.9
+100000,Hash Table (Chained),Direct Addressing / Hashing,143.37,1,1.33,0,4.5,0.377,0.9
+1000000,Linear Search (Iterative),Brute Force,0.0,1,475849.05,1000000,12.5,86497.017,178418.5
+1000000,Binary Search (Recursive),Divide-and-Conquer,807.81,1,19.11,20,3.9,5.839,18.1
+1000000,Hash Table (Chained),Direct Addressing / Hashing,2324.25,1,1.35,2,6.4,0.396,3.0
