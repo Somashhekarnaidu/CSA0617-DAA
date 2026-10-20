@@ -1,0 +1,6 @@
+Metric,Linear Search (Iter),Binary Search (Rec),Hash Table (Redesign)
+"Time for 50,000 Searches",5079.94 s (84.7 min),0.374 s,0.079 s
+System Query Throughput,9.8 queries/sec,133816.7 queries/sec,635630.1 queries/sec
+Mean Latency (us),101600.0 us (101.6 ms),7.16 us,1.26 us
+p99 Tail Latency (us),101600.0 us,13.70 us,3.30 us
+Avg Key Comparisons / Query,500000 comps,19.05 comps,1.28 comps
